@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Netted rock dragon","category":"Turquoise"},
+{"id":2,"name":"Pied butcher bird","category":"Orange"},
+{"id":3,"name":"Common rhea","category":"Khaki"},
+{"id":4,"name":"Common wombat","category":"Khaki"},
+{"id":5,"name":"Pied kingfisher","category":"Blue"},
+{"id":6,"name":"Coyote","category":"Green"},
+{"id":7,"name":"European shelduck","category":"Indigo"},
+{"id":8,"name":"Asian false vampire bat","category":"Khaki"},
+{"id":9,"name":"Guerza","category":"Turquoise"},
+{"id":10,"name":"Long-finned pilot whale","category":"Aquamarine"},
+{"id":11,"name":"Groundhog","category":"Fuscia"},
+{"id":12,"name":"Blue waxbill","category":"Khaki"},
+{"id":13,"name":"Robin, white-throated","category":"Blue"},
+{"id":14,"name":"Nubian bee-eater","category":"Puce"},
+{"id":15,"name":"Dolphin, striped","category":"Purple"},
+{"id":16,"name":"Ground legaan","category":"Red"},
+{"id":17,"name":"Gray duiker","category":"Red"},
+{"id":18,"name":"European stork","category":"Goldenrod"},
+{"id":19,"name":"Purple moorhen","category":"Orange"},
+{"id":20,"name":"Paddy heron (unidentified)","category":"Purple"}
+]
+}
